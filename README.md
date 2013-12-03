@@ -1,4 +1,4 @@
 jquery-inject-gtm
 =================
 
-jQuery to inject Google Tag Manager script into a Squarespace site
+How I use jQuery to inject the Google Tag Manager script into a Squarespace site.
